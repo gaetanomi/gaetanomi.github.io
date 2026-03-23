@@ -1,0 +1,272 @@
+INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI
+ai sensi degli artt. 13-14 del Regolamento (UE) 2016/679 (GDPR)
+
+App: FantaMatrimonio
+Versione informativa: 1.0
+Data di entrata in vigore: [DATA]
+Ultimo aggiornamento: [DATA]
+
+
+------------------------------------------------------------------------
+1. TITOLARE DEL TRATTAMENTO
+------------------------------------------------------------------------
+
+Il titolare del trattamento dei dati personali raccolti tramite
+l'applicazione FantaMatrimonio è:
+
+[Nome / Ragione Sociale]
+[Indirizzo]
+[CAP, Città, Paese]
+P.IVA / C.F.: [numero]
+E-mail: privacy@fantamatrimonio.app
+
+Per qualsiasi richiesta relativa ai tuoi dati personali puoi scrivere
+all'indirizzo e-mail sopra indicato.
+
+
+------------------------------------------------------------------------
+2. TIPOLOGIE DI DATI RACCOLTI
+------------------------------------------------------------------------
+
+FantaMatrimonio raccoglie esclusivamente i dati strettamente necessari
+al funzionamento del servizio.
+
+DATI FORNITI DIRETTAMENTE DALL'UTENTE
+
+- Indirizzo e-mail: utilizzato per l'autenticazione e le comunicazioni
+  di servizio. Obbligatorio.
+- Password: archiviata in forma cifrata da Firebase Auth, mai in chiaro.
+  Obbligatoria.
+- Nome e cognome: visualizzato nell'app e nella classifica. Obbligatorio.
+- Nome della squadra: utilizzato per la personalizzazione nel gioco.
+  Obbligatorio.
+- Risposte alle predizioni: utilizzate per il calcolo del punteggio e
+  la classifica della lega. Necessarie per partecipare al gioco.
+
+DATI RACCOLTI AUTOMATICAMENTE
+
+- Token FCM (Firebase Cloud Messaging): utilizzato per l'invio di
+  notifiche push relative all'evento (es. scadenza predizioni, inizio
+  matrimonio, predizione risolta).
+- Timestamp delle azioni: registrati nel registro delle attività
+  dell'admin per garantire la correttezza e la trasparenza del gioco.
+
+DATI CHE NON RACCOGLIAMO
+
+FantaMatrimonio non raccoglie dati di localizzazione geografica, dati
+biometrici, dati relativi alla navigazione web, informazioni di
+pagamento, dati sanitari, dati da reti sociali di terze parti, né dati
+di profilazione o pubblicità.
+
+
+------------------------------------------------------------------------
+3. FINALITÀ E BASI GIURIDICHE DEL TRATTAMENTO
+------------------------------------------------------------------------
+
+Creazione e gestione dell'account (autenticazione via e-mail):
+Base giuridica: esecuzione del contratto — art. 6(1)(b) GDPR.
+Senza account non è possibile usare l'app.
+
+Partecipazione alle leghe (predizioni, classifica, bonus):
+Base giuridica: esecuzione del contratto — art. 6(1)(b) GDPR.
+Necessario per usufruire del servizio.
+
+Invio di notifiche push relative all'evento:
+Base giuridica: consenso — art. 6(1)(a) GDPR.
+Facoltativo: puoi disabilitarle in qualsiasi momento dalle impostazioni
+iOS (Impostazioni > Notifiche > FantaMatrimonio). La revoca non
+pregiudica la legittimità dei trattamenti effettuati prima della revoca.
+
+Registro delle attività dell'admin (finalità anti-frode, trasparenza
+del gioco):
+Base giuridica: legittimo interesse del titolare — art. 6(1)(f) GDPR.
+Automatico per gli utenti con ruolo "Admin".
+
+
+------------------------------------------------------------------------
+4. MODALITÀ DEL TRATTAMENTO
+------------------------------------------------------------------------
+
+I dati personali sono trattati con strumenti elettronici, in modo
+automatizzato, e conservati su infrastruttura cloud fornita da Google
+LLC (Firebase). Sono adottate misure tecniche e organizzative adeguate
+per garantire un livello di sicurezza appropriato al rischio, incluse
+la cifratura dei dati in transito (TLS) e a riposo, nonché il controllo
+degli accessi.
+
+
+------------------------------------------------------------------------
+5. PERIODO DI CONSERVAZIONE
+------------------------------------------------------------------------
+
+Dati dell'account (e-mail, nome, token FCM):
+Conservati per tutta la durata del rapporto contrattuale; cancellati
+entro 30 giorni dalla cancellazione dell'account.
+
+Dati di partecipazione alle leghe (risposte, classifica):
+Conservati per tutta la durata della lega; cancellati su richiesta
+dell'admin o dell'interessato.
+
+Registro attività admin:
+Conservato per 12 mesi dall'evento; successivamente eliminato.
+
+Token FCM:
+Aggiornato ad ogni avvio; invalidato e rimosso alla cancellazione
+dell'account o alla disinstallazione dell'app.
+
+I dati non saranno conservati oltre il tempo strettamente necessario
+alle finalità per cui sono stati raccolti.
+
+
+------------------------------------------------------------------------
+6. DESTINATARI E TRASFERIMENTO DEI DATI
+------------------------------------------------------------------------
+
+RESPONSABILI DEL TRATTAMENTO (art. 28 GDPR)
+
+I dati sono trattati con il supporto di Google LLC tramite la
+piattaforma Firebase, nominata responsabile del trattamento ai sensi
+dell'art. 28 GDPR, per i seguenti servizi:
+
+- Firebase Authentication: gestione dell'autenticazione tramite e-mail
+  e password.
+- Cloud Firestore: archiviazione dei dati strutturati dell'app (account,
+  leghe, predizioni, risposte, bonus, registro attività).
+- Firebase Cloud Messaging (FCM): invio di notifiche push.
+
+Google LLC ha sede negli Stati Uniti. Il trasferimento dei dati verso
+gli USA avviene nel rispetto dell'art. 46 GDPR, sulla base delle
+Clausole Contrattuali Standard adottate dalla Commissione Europea e del
+Data Privacy Framework EU-USA (Decisione di adeguatezza della
+Commissione del 10 luglio 2023).
+
+Informativa sulla privacy di Google/Firebase:
+https://policies.google.com/privacy
+
+DATI NON CEDUTI A TERZI
+
+I tuoi dati personali non vengono venduti, ceduti o comunicati a terze
+parti per finalità pubblicitarie o di profilazione commerciale.
+
+
+------------------------------------------------------------------------
+7. TRASFERIMENTO INTERNAZIONALE DEI DATI
+------------------------------------------------------------------------
+
+Come indicato al punto 6, alcuni dati possono essere trasferiti verso
+server situati fuori dall'Unione Europea (principalmente negli Stati
+Uniti), in conformità alle garanzie previste dagli artt. 44-49 GDPR.
+In particolare, Firebase adotta le Clausole Contrattuali Standard della
+Commissione Europea.
+
+
+------------------------------------------------------------------------
+8. DIRITTI DELL'INTERESSATO
+------------------------------------------------------------------------
+
+Ai sensi degli artt. 15-22 del GDPR hai il diritto di:
+
+- Accesso (art. 15): ottenere conferma che sia in corso un trattamento
+  di dati che ti riguardano e riceverne copia.
+
+- Rettifica (art. 16): correggere dati inesatti o incompleti. Puoi
+  aggiornare nome e nome squadra direttamente nell'app, nella sezione
+  Impostazioni > Profilo.
+
+- Cancellazione, "diritto all'oblio" (art. 17): richiedere la
+  cancellazione dei dati quando non siano più necessari alle finalità
+  del trattamento. Puoi eliminare il tuo account direttamente dall'app,
+  nella sezione Impostazioni > Account > Elimina account. La
+  cancellazione rimuove tutti i dati associati entro 30 giorni.
+
+- Limitazione del trattamento (art. 18): richiedere che il trattamento
+  dei tuoi dati venga limitato in determinati casi.
+
+- Portabilità (art. 20): ricevere i tuoi dati in formato strutturato,
+  di uso comune e leggibile da dispositivo automatico.
+
+- Opposizione (art. 21): opporti al trattamento basato sul legittimo
+  interesse del titolare.
+
+- Revoca del consenso (art. 7, par. 3): revocare in qualsiasi momento
+  il consenso prestato (es. per le notifiche push), senza che ciò
+  pregiudichi la liceità del trattamento effettuato prima della revoca.
+
+Per esercitare uno qualsiasi di questi diritti, scrivi a:
+privacy@fantamatrimonio.app
+
+Risponderemo entro 30 giorni. In casi di particolare complessità, il
+termine potrà essere prorogato di ulteriori 60 giorni, dandoti
+comunicazione entro il primo mese.
+
+
+------------------------------------------------------------------------
+9. DIRITTO DI RECLAMO ALL'AUTORITÀ DI CONTROLLO
+------------------------------------------------------------------------
+
+Hai il diritto di proporre reclamo al Garante per la Protezione dei
+Dati Personali (Garante Privacy):
+
+Garante per la Protezione dei Dati Personali
+Piazza Venezia, 11 — 00187 Roma
+Tel.: +39 06 696771
+E-mail: garante@gpdp.it
+Sito: https://www.garanteprivacy.it
+
+
+------------------------------------------------------------------------
+10. SICUREZZA DEI DATI
+------------------------------------------------------------------------
+
+Adottiamo misure tecniche e organizzative adeguate a proteggere i tuoi
+dati da accesso non autorizzato, perdita, distruzione o divulgazione:
+
+- Cifratura delle comunicazioni in transito tramite TLS/HTTPS.
+- Cifratura dei dati a riposo su Firebase (gestita da Google).
+- Password memorizzate esclusivamente in forma hash tramite Firebase
+  Auth, mai in chiaro.
+- Accesso ai dati della lega limitato ai soli membri registrati tramite
+  regole di sicurezza Firestore.
+- Il registro delle attività dell'admin è in sola lettura e non
+  modificabile da nessun utente.
+
+
+------------------------------------------------------------------------
+11. MINORI
+------------------------------------------------------------------------
+
+FantaMatrimonio è destinata a utenti maggiorenni. Non raccogliamo
+consapevolmente dati personali di minori di 18 anni. Se ritieni che un
+minore abbia fornito dati personali tramite l'app, contattaci a
+privacy@fantamatrimonio.app e provvederemo alla cancellazione immediata.
+
+
+------------------------------------------------------------------------
+12. MODIFICHE ALLA PRESENTE INFORMATIVA
+------------------------------------------------------------------------
+
+Ci riserviamo il diritto di aggiornare la presente informativa per
+riflettere modifiche al servizio o alla normativa applicabile. In caso
+di modifiche sostanziali, ti avviseremo tramite notifica nell'app o via
+e-mail prima che le modifiche entrino in vigore.
+
+La versione aggiornata sarà sempre disponibile all'indirizzo:
+https://fantamatrimonio.app/privacy
+
+
+------------------------------------------------------------------------
+13. CONTATTI
+------------------------------------------------------------------------
+
+Per qualsiasi domanda o richiesta relativa alla presente informativa o
+al trattamento dei tuoi dati:
+
+privacy@fantamatrimonio.app
+
+
+------------------------------------------------------------------------
+
+Informativa redatta in conformità al Regolamento (UE) 2016/679 del
+Parlamento Europeo e del Consiglio del 27 aprile 2016 (GDPR) e al
+D.Lgs. 30 giugno 2003, n. 196 (Codice della Privacy), come modificato
+dal D.Lgs. 10 agosto 2018, n. 101.
