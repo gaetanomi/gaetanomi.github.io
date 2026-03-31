@@ -1,1 +1,71 @@
+# Categoria: 💒 Cerimonia
+
+DOMANDA: Andrea si sporcherà di vino?
+TIPO: yesNo
+PUNTI: Sì=5, No=5
+
+DOMANDA: Pioverà? Anche un minimo
+TIPO: yesNo
+PUNTI: Sì=5, No=5
+
+DOMANDA: Finirà il vino?
+TIPO: yesNo
+PUNTI: Sì=5, No=5
+
+DOMANDA: Quanti di noi si scugnano?
+TIPO: sceltaMultipla
+OPZIONI: nessuno | da uno a due | piu di due |
+PUNTI: nessuno=2, da uno a due=5, piu di due min=6
+
+DOMANDA: Riccardo appende
+TIPO: yesNo
+PUNTI: Sì=6, No=3
+
+DOMANDA: Angelo si lamenta della distanza
+TIPO: yesNo
+PUNTI: Sì=4, No=6
+
+DOMANDA: Angelo dice che avrebbe preferito restare a casa
+TIPO: yesNo
+PUNTI: Sì=3, No=4
+
+DOMANDA: Elena nomina House Flipper entro le 16:15
+TIPO: yesNo
+PUNTI: Sì=3, No=6: 
+
+DOMANDA: Over 2,5 battute sugli ebrei da parte di Daniele
+TIPO: yesNo
+PUNTI: Sì=4, No=4
+
+DOMANDA: Incontriamo qualcuno del nostro anno di Academy
+TIPO: yesNo
+PUNTI: Sì=7, No=2
+
+DOMANDA: Eleonora indossa almeno un indumento a strisce
+TIPO: yesNo
+PUNTI: Sì=3, No=3
+
+DOMANDA: Giocheremo lanciando la pallina a un cane
+TIPO: yesNo
+PUNTI: Sì=4, No=5
+
+DOMANDA: Quanti cruciverba risolveremo?
+TIPO: sceltaMultipla
+OPZIONI: nessuno | da uno a tre | piu di tre |
+PUNTI: nessuno=5, da uno a tre=3, piu di tre min=4
+
+DOMANDA: Giada passerà più tempo (viaggio escluso) con 
+TIPO: sceltaMultipla
+OPZIONI: noi | loro 
+PUNTI: noi=5, loro=4
+
+DOMANDA: A che ora arriviamo tutti (noi)
+TIPO: sceltaMultipla
+OPZIONI: prima delle 12:15 | dopo le 12:15
+PUNTI: prima delle 12:15=5, dopo le 12:15=5
+
+DOMANDA: Quanti pesci pesca Gianluca
+TIPO: sceltaMultipla
+OPZIONI: Nessuno | Uno | Piu di uno
+PUNTI: Nessuno=4, Uno=3, Piu di uno=5
 
