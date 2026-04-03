@@ -1,1 +1,35 @@
+TITOLO: Braciere
+DESCRIZIONE: Gestisci la brace per almeno 15 minuti
+PUNTI: 10
 
+TITOLO: Re del Casatiello 
+DESCRIZIONE: Vinci la gara dei casatielli
+PUNTI: 10
+
+TITOLO: Vomitevole
+DESCRIZIONE: hai vomitatto
+PUNTI: -10
+
+TITOLO: Colui che non deve essere nominato
+DESCRIZIONE: Nomini proteina
+PUNTI: -10
+
+TITOLO: Fai un discorso
+DESCRIZIONE: fai un brindisi collettivo con discorso
+PUNTI: 5
+
+TITOLO: BOOMER
+DESCRIZIONE: metti una storia selfie con boomerang 
+PUNTI: 10
+
+TITOLO: avventuriero
+DESCRIZIONE: vai in molise prima delle 16.00
+PUNTI: 10
+
+TITOLO: il pescatore
+DESCRIZIONE: prendi un pesce
+PUNTI: 4
+
+TITOLO: il sus
+DESCRIZIONE: tocchi un minorenne
+PUNTI: 10
