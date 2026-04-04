@@ -33,3 +33,11 @@ PUNTI: 4
 TITOLO: il sus
 DESCRIZIONE: tocchi un minorenne
 PUNTI: 10
+
+TITOLO: designer
+DESCRIZIONE: hai disegnato l'app icon
+PUNTI: 3
+
+TITOLO: icona
+DESCRIZIONE: hai fornito le icone per lo sviluppo
+PUNTI: 3
