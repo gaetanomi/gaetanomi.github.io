@@ -41,3 +41,7 @@ PUNTI: 3
 TITOLO: icona
 DESCRIZIONE: hai fornito le icone per lo sviluppo
 PUNTI: 3
+
+TITOLO: Guastafeste
+DESCRIZIONE: hai bucato/perso definitivamente il pallone
+PUNTI: -10
