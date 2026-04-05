@@ -58,3 +58,7 @@ TITOLO: lo scroccone
 DESCRIZIONE: ti fai offrire del cibo dagli estranei 
 PUNTI: 5
 
+TITOLO: McTominay
+DESCRIZIONE: dai una pallonata a un bambino
+PUNTI: 15
+
