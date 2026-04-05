@@ -45,3 +45,16 @@ PUNTI: 3
 TITOLO: Guastafeste
 DESCRIZIONE: hai bucato/perso definitivamente il pallone
 PUNTI: -10
+
+TITOLO: momento fetish
+DESCRIZIONE: ti bagni i piedi nel lago 
+PUNTI: 7
+
+TITOLO: il buon samaritano
+DESCRIZIONE: offri del cibo a un estraneo (e lo accetta)
+PUNTI: 5
+
+TITOLO: lo scroccone
+DESCRIZIONE: ti fai offrire del cibo dagli estranei 
+PUNTI: 5
+
