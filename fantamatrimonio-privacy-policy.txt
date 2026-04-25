@@ -3,8 +3,8 @@ ai sensi degli artt. 13-14 del Regolamento (UE) 2016/679 (GDPR)
 
 App: FantaMatrimonio
 Versione informativa: 1.0
-Data di entrata in vigore: [DATA]
-Ultimo aggiornamento: [DATA]
+Data di entrata in vigore: 26/04/205
+Ultimo aggiornamento: 26/04/2025
 
 
 ------------------------------------------------------------------------
@@ -14,11 +14,10 @@ Ultimo aggiornamento: [DATA]
 Il titolare del trattamento dei dati personali raccolti tramite
 l'applicazione FantaMatrimonio è:
 
-[Nome / Ragione Sociale]
-[Indirizzo]
-[CAP, Città, Paese]
-P.IVA / C.F.: [numero]
-E-mail: privacy@fantamatrimonio.app
+Gaetano Miranda
+Via Martiri di Nassiriya 81
+80047 San Giuseppe Vesuviano
+E-mail: mirandagaetano1@gmail.com
 
 Per qualsiasi richiesta relativa ai tuoi dati personali puoi scrivere
 all'indirizzo e-mail sopra indicato.
@@ -37,17 +36,16 @@ DATI FORNITI DIRETTAMENTE DALL'UTENTE
   di servizio. Obbligatorio.
 - Password: archiviata in forma cifrata da Firebase Auth, mai in chiaro.
   Obbligatoria.
-- Nome e cognome: visualizzato nell'app e nella classifica. Obbligatorio.
+- Username: visualizzato nell'app e nella classifica. Obbligatorio.
 - Nome della squadra: utilizzato per la personalizzazione nel gioco.
   Obbligatorio.
-- Risposte alle predizioni: utilizzate per il calcolo del punteggio e
-  la classifica della lega. Necessarie per partecipare al gioco.
+
 
 DATI RACCOLTI AUTOMATICAMENTE
 
 - Token FCM (Firebase Cloud Messaging): utilizzato per l'invio di
-  notifiche push relative all'evento (es. scadenza predizioni, inizio
-  matrimonio, predizione risolta).
+  notifiche push e live activity elative all'evento (es. scadenza predizioni, inizio
+  matrimonio).
 - Timestamp delle azioni: registrati nel registro delle attività
   dell'admin per garantire la correttezza e la trasparenza del gioco.
 
@@ -238,7 +236,7 @@ dati da accesso non autorizzato, perdita, distruzione o divulgazione:
 FantaMatrimonio è destinata a utenti maggiorenni. Non raccogliamo
 consapevolmente dati personali di minori di 18 anni. Se ritieni che un
 minore abbia fornito dati personali tramite l'app, contattaci a
-privacy@fantamatrimonio.app e provvederemo alla cancellazione immediata.
+mirandagaetano1@gmail.com e provvederemo alla cancellazione immediata.
 
 
 ------------------------------------------------------------------------
@@ -250,9 +248,6 @@ riflettere modifiche al servizio o alla normativa applicabile. In caso
 di modifiche sostanziali, ti avviseremo tramite notifica nell'app o via
 e-mail prima che le modifiche entrino in vigore.
 
-La versione aggiornata sarà sempre disponibile all'indirizzo:
-https://fantamatrimonio.app/privacy
-
 
 ------------------------------------------------------------------------
 13. CONTATTI
@@ -261,7 +256,7 @@ https://fantamatrimonio.app/privacy
 Per qualsiasi domanda o richiesta relativa alla presente informativa o
 al trattamento dei tuoi dati:
 
-privacy@fantamatrimonio.app
+mirandagaetano1@gmail.com
 
 
 ------------------------------------------------------------------------
