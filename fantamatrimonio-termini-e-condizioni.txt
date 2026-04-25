@@ -2,8 +2,8 @@ TERMINI E CONDIZIONI D'USO
 FantaMatrimonio
 
 Versione: 1.0
-Data di entrata in vigore: [DATA]
-Ultimo aggiornamento: [DATA]
+Data di entrata in vigore: 26/04/2025
+Ultimo aggiornamento: 26/04/2025
 
 
 ------------------------------------------------------------------------
@@ -12,7 +12,7 @@ Ultimo aggiornamento: [DATA]
 
 I presenti Termini e Condizioni d'uso ("Termini") regolano l'accesso e
 l'utilizzo dell'applicazione mobile FantaMatrimonio ("App"), sviluppata
-e gestita da [Nome / Ragione Sociale] ("noi", "il Gestore").
+e gestita da Gaetano Miranda ("noi", "il Gestore").
 
 Scaricando, installando o utilizzando l'App, dichiari di aver letto,
 compreso e accettato integralmente i presenti Termini. Se non accetti
@@ -56,7 +56,7 @@ L'utente è responsabile della riservatezza delle proprie credenziali
 di accesso e di tutte le attività svolte tramite il proprio account.
 In caso di accesso non autorizzato o sospetto utilizzo improprio
 dell'account, è necessario comunicarlo immediatamente a:
-support@fantamatrimonio.app
+mirandagaetano1@gmail.com
 
 È vietato creare account multipli per la stessa persona o registrare
 account per conto di terzi senza il loro esplicito consenso.
@@ -93,8 +93,7 @@ Chi si unisce a una lega tramite codice di accesso diventa partecipante
 
 - Inserisce le proprie predizioni entro la scadenza stabilita dall'Admin.
 - Può modificare le proprie risposte solo per le predizioni non ancora
-  risolte dall'Admin, anche qualora la lega torni temporaneamente in
-  stato "pre-matrimonio".
+  risolte dall'Admin
 - Accetta che le predizioni già risolte siano definitive e non
   modificabili.
 
@@ -239,9 +238,6 @@ Continuando a utilizzare l'App dopo l'entrata in vigore delle modifiche,
 l'utente accetta le nuove condizioni. Se non accetta le modifiche, può
 cancellare il proprio account prima della data di entrata in vigore.
 
-La versione aggiornata dei Termini è sempre disponibile all'indirizzo:
-https://fantamatrimonio.app/terms
-
 
 ------------------------------------------------------------------------
 12. LEGGE APPLICABILE E FORO COMPETENTE
@@ -249,7 +245,7 @@ https://fantamatrimonio.app/terms
 
 I presenti Termini sono regolati dalla legge italiana. Per qualsiasi
 controversia relativa all'interpretazione, validità o esecuzione dei
-presenti Termini, sarà competente in via esclusiva il Foro di [Città].
+presenti Termini, sarà competente in via esclusiva il Foro di Nola.
 
 Per gli utenti che rivestono la qualità di consumatori ai sensi del
 D.Lgs. 206/2005 (Codice del Consumo), resta ferma la competenza del
@@ -266,12 +262,7 @@ all'indirizzo support@fantamatrimonio.app.
 
 Per qualsiasi domanda relativa ai presenti Termini:
 
-support@fantamatrimonio.app
-
-[Nome / Ragione Sociale]
-[Indirizzo]
-[CAP, Città, Paese]
-
+mirandagaetano1@gmail.com
 
 ------------------------------------------------------------------------
 
