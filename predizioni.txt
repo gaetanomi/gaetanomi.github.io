@@ -1,99 +1,19 @@
 # Categoria: 💒 Cerimonia
 
-DOMANDA: Andrea si sporcherà di vino?
+DOMANDA: Il padre della sposa si commuoverà camminando verso l'altare?
 TIPO: yesNo
-PUNTI: Sì=5, No=5
+PUNTI: Sì=3, No=6
 
-DOMANDA: Pioverà? Anche un minimo
+DOMANDA: Sposa bagnata all'uscita della chiesa?
 TIPO: yesNo
-PUNTI: Sì=6, No=3
+PUNTI: Sì=3, No=3
 
 DOMANDA: Finirà il vino?
 TIPO: yesNo
 PUNTI: Sì=4, No=3
 
-DOMANDA: Quanti di noi si scugnano?
+DOMANDA: Quanto ritardo farà la sposa?
 TIPO: sceltaMultipla
-OPZIONI: nessuno | da uno a due | piu di due |
-PUNTI: nessuno=2, da uno a due=5, piu di due min=6
-
-DOMANDA: Riccardo appende
-TIPO: yesNo
-PUNTI: Sì=4, No=4
-
-DOMANDA: Angelo si lamenta della distanza
-TIPO: yesNo
-PUNTI: Sì=4, No=6
-
-DOMANDA: Angelo dice che avrebbe preferito restare a casa
-TIPO: yesNo
-PUNTI: Sì=3, No=4
-
-DOMANDA: Elena nomina House Flipper entro le 16:15
-TIPO: yesNo
-PUNTI: Sì=3, No=6: 
-
-DOMANDA: Incontriamo qualcuno del nostro anno di Academy
-TIPO: yesNo
-PUNTI: Sì=7, No=2
-
-DOMANDA: Eleonora indossa almeno un indumento a strisce
-TIPO: yesNo
-PUNTI: Sì=3, No=3
-
-DOMANDA: Giocheremo lanciando la pallina a un cane
-TIPO: yesNo
-PUNTI: Sì=4, No=5
-
-DOMANDA: Quanti cruciverba risolveremo?
-TIPO: sceltaMultipla
-OPZIONI: nessuno | da uno a tre | piu di tre |
-PUNTI: nessuno=5, da uno a tre=3, piu di tre min=4
-
-DOMANDA: Giada passerà più tempo (viaggio escluso) con 
-TIPO: sceltaMultipla
-OPZIONI: noi | loro 
-PUNTI: noi=5, loro=4
-
-DOMANDA: A che ora arriviamo tutti (noi)
-TIPO: sceltaMultipla
-OPZIONI: prima delle 11:30 | dopo le 11:30
-PUNTI: prima delle 11:30=5, dopo le 11:30=5
-
-DOMANDA: Quanti pesci pesca Gianluca
-TIPO: sceltaMultipla
-OPZIONI: Nessuno | Uno | Piu di uno
-PUNTI: Nessuno=4, Uno=3, Piu di uno=5
-
-DOMANDA: Il tizio che chiede i soldi all'ingresso sarà pelato?
-TIPO: yesNo
-PUNTI: Sì=6, No=2
-
-DOMANDA: un gatto verrà a elemosinarci il cibo?
-TIPO: yesNo
-PUNTI: Sì=3, No=3
-
-DOMANDA: stefano accende un intenso dibattito
-TIPO: yesNo
-PUNTI: Sì=4, No=4
-
-DOMANDA: c'è anche omid?
-TIPO: yesNo
-PUNTI: Sì=25, No=2
-
-DOMANDA: gaetano fa una raffica di 4 o piu starnuti?
-TIPO: yesNo
-PUNTI: Sì=3, No=5
-
-DOMANDA: almeno una persona nel parco è in sedia a rotelle?
-TIPO: yesNo
-PUNTI: Sì=4, No=3
-
-DOMANDA: il bar vende il gelato a biscotto gocciole?
-TIPO: yesNo
-PUNTI: Sì=4, No=3
-
-
-
-
+OPZIONI: meno di 10 minuti | da 10 a 19 minuti | da 20 a 30 minuti | più di 30 minuti
+PUNTI: meno di 10 minuti=10, da 10 a 19 minuti=5, da 20 a 30 minuti=5, più di 30 minuti=10
 
